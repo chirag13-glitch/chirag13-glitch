@@ -120,58 +120,6 @@ I’m an aspiring AI Engineer and Data Engineering student passionate about buil
 
 ---
 
-## ⭐ Featured Project
-
-### AI Doppelganger
-An AI-powered digital clone designed to mimic communication style using LLMs and intelligent interaction layers.
-
-- 🤖 FastAPI backend
-- 🧠 Ollama integration
-- 💬 LLM-powered responses
-- 📱 Telegram integration
-- 📊 Sentiment analysis
-- 🎭 Custom personality modeling
-- ✨ Modern UI experience
-
-<p align="left">
-  <a href="https://github.com/chirag13-glitch/AI-Doppelganger"><img src="https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github" alt="View project on GitHub" /></a>
-  <!-- Replace the project link above with your actual repository URL if needed -->
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag13-glitch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag13-glitch&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag13-glitch&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chirag13-glitch&theme=tokyonight&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chirag13-glitch&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirag13-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
----
-
 ## 🧭 Learning Roadmap
 
 1. Master Python for AI and backend development
@@ -235,3 +183,4 @@ Let’s connect and collaborate.
 <p align="center">
   <i>Thanks for visiting — I’m always learning, building, and growing.</i>
 </p>
+
