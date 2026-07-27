@@ -254,11 +254,11 @@ Let’s connect and collaborate.
 - GitHub: [chirag13-glitch](https://github.com/chirag13-glitch)
 - LinkedIn: <!-- Replace with your LinkedIn URL -->
 - Portfolio: <!-- Replace with your portfolio URL -->
-- Email: <!-- Replace with your email -->
+- Email: [chiragmishra1305@gmail.com](mailto:chiragmishra1305@gmail.com)
 
 <p align="left">
   <a href="https://github.com/chirag13-glitch"><img src="https://img.shields.io/badge/GitHub-chirag13-glitch-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-0A84FF?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:chiragmishra1305@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A84FF?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
