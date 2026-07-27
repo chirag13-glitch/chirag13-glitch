@@ -33,17 +33,29 @@ I’m an aspiring AI Engineer and Data Engineering student passionate about buil
 
 ## 🚀 Current Focus
 
-- Python
-- SQL
-- Data Engineering
-- PySpark
-- Machine Learning
-- Deep Learning
+I’m building modern AI systems with a strong focus on real-world applications, scalable architecture, and intelligent automation.
+
+### 🤖 LLMs & Generative AI
+- Building Large Language Models (LLMs)
+- Transformer Architecture & Attention Mechanisms
 - LLM Engineering
-- Agentic AI
-- AWS Cloud
-- JavaScript
-- Node.js
+- Prompt Engineering
+- Fine-tuning & Model Optimization
+- Retrieval-Augmented Generation (RAG)
+- Generative AI Applications
+
+### 🧠 Agentic AI
+- Agentic AI Systems
+- AI Agents & Autonomous Workflows
+- Multi-Agent Systems
+- Model Context Protocol (MCP)
+- AI Automation
+
+### ⚙️ Data & Systems
+- Data Engineering with PySpark
+- Backend Development with FastAPI
+- Cloud & AI Deployment (AWS, Docker)
+- Open Source AI Projects
 
 ---
 
