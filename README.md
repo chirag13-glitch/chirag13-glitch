@@ -61,25 +61,101 @@ I’m building modern AI systems with a strong focus on real-world applications,
 
 ## 🛠️ Tech Stack
 
-### Languages
+I build AI systems across the full stack—from model interaction and orchestration to data pipelines, APIs, and deployment.
+
+### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,javascript" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,sql,javascript,typescript" alt="Programming languages" />
 </p>
 
-### Data Science & ML
+- Python
+- SQL
+- JavaScript
+- TypeScript
+
+### 🤖 AI & LLM Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,tensorflow,pytorch" alt="Data science stack" />
+  <img src="https://skillicons.dev/icons?i=langchain,langgraph,openai,ollama,huggingface" alt="AI and LLM tools" />
 </p>
 
-### Data Engineering & Backend
+- LangChain
+- LangGraph
+- Hugging Face Transformers
+- Hugging Face Hub
+- Ollama
+- OpenAI API
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+- AI Agents
+- Agentic AI
+- MCP (Model Context Protocol)
+
+### 🧠 Machine Learning & Deep Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pyspark,fastapi,git,github" alt="Data engineering and backend tools" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch,numpy,pandas,matplotlib" alt="Machine learning and deep learning stack" />
 </p>
 
-### Cloud & Tools
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- OpenCV
+- YOLO
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+### ⚙️ Data Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,vscode,pycharm,googlecloud,colab" alt="Cloud and tools" />
+  <img src="https://skillicons.dev/icons?i=pyspark,excel" alt="Data engineering tools" />
 </p>
+
+- PySpark
+- ETL Pipelines
+- Data Processing
+- Data Analysis
+- Excel
+
+### 🌐 Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend stack" />
+</p>
+
+- FastAPI
+- Node.js
+- REST APIs
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="Cloud and DevOps tools" />
+</p>
+
+- AWS EC2
+- AWS S3
+- AWS IAM
+- AWS VPC
+- Docker
+- Git
+- GitHub
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+</p>
+
+- MongoDB
+- MySQL
+
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,postman,colab" alt="Development tools" />
+</p>
+
+- VS Code
+- PyCharm
+- Jupyter Notebook
+- Google Colab
+- Postman
 
 ---
 
