@@ -1,11 +1,11 @@
 <!-- Premium GitHub Profile README for Chirag Mishra -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Chirag%20Mishra&fontSize=50&fontAlignY=18&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20Python%20Developer&descAlignY=42&height=200&theme=tokyonight" alt="Chirag Mishra header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Chirag%20Mishra&fontSize=50&fontAlignY=18&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Python%20Developer&descAlignY=42&height=200&theme=tokyonight" alt="Chirag Mishra header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+with+Python+and+LLMs;Learning+Data+Engineering%2C+PySpark%2C+and+Agentic+AI;Turning+ideas+into+smart%2C+scalable+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+with+Python%2C+LLMs%2C+and+AI+Agents;Exploring+Data+Science%2C+Data+Engineering%2C+and+Generative+AI;Turning+ideas+into+real-world+AI+solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👋 Hello, I'm Chirag Mishra
 
-I’m an aspiring AI Engineer and Data Engineering student passionate about building intelligent systems, LLM-powered applications, and scalable data solutions. I enjoy exploring Python, machine learning, cloud technologies, and the growing world of agentic AI.
+I’m an aspiring AI Engineer, Data Scientist, and Python Developer focused on building intelligent systems, LLM-powered applications, and scalable data solutions. I enjoy working at the intersection of machine learning, data engineering, and generative AI.
 
 > I believe the future belongs to builders who can combine data, intelligence, and automation into real-world products.
 
