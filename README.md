@@ -24,7 +24,7 @@ I’m an aspiring AI Engineer, Data Scientist, and Python Developer focused on b
 
 ## 🧠 About Me
 
-- 🎓 Bachelor of Accounting and Finance
+- 🎓 Bachelor of Data Science
 - 💼 Aspiring AI Engineer specializing in LLMs, AI Agents, Data Engineering, and Intelligent Systems
 - 🐍 Python Developer and ML enthusiast
 - 📈 Currently building foundations in Data Engineering, PySpark, SQL, and modern AI workflows
